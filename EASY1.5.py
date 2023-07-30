@@ -339,6 +339,9 @@ def passwrd():
 				else:
 					pwv.append(nmf)
 					pwv.append(frs+'123')
+					pwv.append(frs+'1234')
+					pwv.append(frs+'12345')
+					pwv.append(frs+'123456')
 					pwv.append(frs+'11')
 					pwv.append(frs+'1234512345')
 					pwv.append(frs+'1122334455')
@@ -358,6 +361,9 @@ def passwrd():
 					
 					pwv.append(nmf)
 					pwv.append(frs+'123')
+					pwv.append(frs+'1234')
+					pwv.append(frs+'12345')
+					pwv.append(frs+'123456')
 					pwv.append(frs+'11')
 					pwv.append(frs+'1234512345')
 					pwv.append(frs+'1122334455')
